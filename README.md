@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there  👋
 
-<!--
-**Dhriti03/Dhriti03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Domains worked with till now !!!
+#### Web Devlopment .
+#### Machine Learning 
+#### Digital Signal processing 
+#### ROS & OpenCV 
 
-Here are some ideas to get you started:
+## Domains currently learning :- 
+#### Flutter 
+#### Embedded systems 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
