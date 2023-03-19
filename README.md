@@ -7,7 +7,6 @@
 #### ROS & OpenCV 
 
 ## Domains currently learning :- 
-#### Flutter 
-#### Embedded systems 
+#### Cybersecurity 
 
 
