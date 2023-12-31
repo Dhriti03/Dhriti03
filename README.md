@@ -1,8 +1,8 @@
 # Hello there  👋
 
 Domains Im intrested in :- 
-Internet of Things [ Arduino | Portenta | Raspberry Pi ]
-Digital Signal Processing 
-Embedded Systems 
+<br>1. Internet of Things [ Arduino | Portenta | Raspberry Pi ]
+<br>2. Digital Signal Processing 
+<br>3. Embedded Systems 
 
 
