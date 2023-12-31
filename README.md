@@ -1,12 +1,8 @@
 # Hello there  👋
 
-## Domains worked with till now !!!
-#### Web Devlopment .
-#### Machine Learning 
-#### Digital Signal processing 
-#### ROS & OpenCV 
-
-## Domains currently learning :- 
-#### IOT 
+Domains Im intrested in :- 
+Internet of Things [ Arduino | Portenta | Raspberry Pi ]
+Digital Signal Processing 
+Embedded Systems 
 
 
